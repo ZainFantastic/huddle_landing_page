@@ -1,0 +1,13 @@
+:root
+{
+  /* colors  */
+  --color-violet:hsl(257, 40%, 49%);
+  --color-soft-magenta:hsl(300, 69%, 71%);
+  --color-white:#ffff;
+
+  /* fonts & weights */
+  --font-heading:'Poppins', sans-serif;
+  --font-body:'Open Sans', sans-serif;
+  --font-reg:400;
+  --font-bold:600;
+}
